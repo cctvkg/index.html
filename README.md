@@ -13,7 +13,7 @@ index.html перевая страница
   <body>
     <div id="header">
       <h1>Евгений</h1>
-      <h3>новичек</h3>
+      <h3>Начинающий</h3>
       <p>
         <a href="mailto:xxx@somemail.com">ap@somemail.com</a>,
         <a href="https://github.com/alprima">github.com/alprima</a>
