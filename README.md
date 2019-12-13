@@ -7,34 +7,34 @@ index.html перевая страница
   <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <title>Резюме Алексей Примадонин</title>
+    <title>Резюме Евгений</title>
   </head>
 
   <body>
     <div id="header">
-      <h1>Алексей Примадонин</h1>
-      <h3>Веб-разработчик</h3>
+      <h1>Евгений</h1>
+      <h3>новичек</h3>
       <p>
-        <a href="mailto:ap@somemail.com">ap@somemail.com</a>,
+        <a href="mailto:xxx@somemail.com">ap@somemail.com</a>,
         <a href="https://github.com/alprima">github.com/alprima</a>
       </p>
     </div>
 
     <div id="main">
       <p>
-        Я увлекаюсь веб-дизайном со старших классов школы. Начал с мини-сайтов для себя и друзей, потом для местных фирм и организаций. После курсов на Хекслете начал работу веб-разработчиком. Пишу на JS (ES6), люблю функциональное программирование. Умею работать с SQL, HTTP, Git и Ansible. Пишу тесты.
+        Я начинающий.
       </p>
 
       <p>
-        Готов к удаленной работе и релокации.
+        Готов к следующим урокам.
       </p>
 
       <div class="main_section">
         <h2>Опыт работы</h2>
 
         <div class="main_section_item">
-          <h3>Майкрософт Россия</h3>
-          <p>Программист (стажировка), <i>апрель 2016 — ноябрь 2016</i></p>
+          <h3>Компания</h3>
+          <p>Стажер, <i>декабрь 2019 — ноябрь 2016</i></p>
           <ul>
             <li>Работа в команде на C#</li>
             <li>Создание веб-сайта проекта JDX</li>
@@ -56,7 +56,7 @@ index.html перевая страница
         <h2>Образование</h2>
 
         <div class="main_section_item">
-          <h3>Университет им. Патриса Лумумбы</h3>
+          <h3>Университет</h3>
           <p>Бакалавр информационных систем, <i>2012 —  2016</i></p>
         </div>
 
@@ -71,9 +71,9 @@ index.html перевая страница
 
         <div class="main_section_item">
           <ul>
-            <li>Основы дизайна и типографики</li>
-            <li>Любительская игра на гитаре</li>
-            <li>Хоккей на траве (городская лига)</li>
+            <li>Основы дизайна/li>
+            <li>Bгра на гитаре</li>
+            <li>Хоккей</li>
           </ul>
         </div>
       </div>
@@ -81,9 +81,9 @@ index.html перевая страница
     </div>
 
     <div id="footer">
-      <strong>Алексей Примадонин</strong>
+      <strong>Евгений</strong>
       <br/>
-      ул. Полевая, 12, Астрахань, Россия +7 888 127 00 01, <a href="mailto:ap@somemail.com">ap@somemail.com</a>
+      ул. Полевая, 12, Астрахань, Кыргызстан, <a href="mailto:xxx@somemail.com">xxxap@somemail.com</a>
     </div>
 
   </body>
