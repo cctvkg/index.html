@@ -33,16 +33,16 @@ index.html перевая страница
         <h2>Опыт работы</h2>
 
         <div class="main_section_item">
-          <h3>Компания</h3>
+          <h3>Опыта нат</h3>
           <p>Стажер, <i>декабрь 2019 — ноябрь 2016</i></p>
           <ul>
-            <li>Работа в команде на C#</li>
-            <li>Создание веб-сайта проекта JDX</li>
+            <li>Работа на дому C#</li>
+            <li>Создание веб-сайта</li>
           </ul>
         </div>
 
         <div class="main_section_item">
-          <h3>TOO «Винная Баня»</h3>
+          <h3>ОсОО «Дом»</h3>
           <p>Веб-дизайн, <i>январь 2015 — апрель 2016</i></p>
           <ul>
             <li>Верстка макетов</li>
@@ -57,12 +57,12 @@ index.html перевая страница
 
         <div class="main_section_item">
           <h3>Университет</h3>
-          <p>Бакалавр информационных систем, <i>2012 —  2016</i></p>
+          <p>Информационных систем, <i>2012 —  2016</i></p>
         </div>
 
         <div class="main_section_item">
           <h3>Хекслет</h3>
-          <p>Курсы по программированию, JS Backend/Frontend, <i>2015 — 2017</i></p>
+          <p>Курсы английского, <i>2015 — 2017</i></p>
         </div>
       </div>
 
@@ -72,8 +72,8 @@ index.html перевая страница
         <div class="main_section_item">
           <ul>
             <li>Основы дизайна/li>
-            <li>Bгра на гитаре</li>
-            <li>Хоккей</li>
+            <li>Походы в горы</li>
+            <li>Футбол</li>
           </ul>
         </div>
       </div>
@@ -83,7 +83,7 @@ index.html перевая страница
     <div id="footer">
       <strong>Евгений</strong>
       <br/>
-      ул. Полевая, 12, Астрахань, Кыргызстан, <a href="mailto:xxx@somemail.com">xxxap@somemail.com</a>
+      Бишкек, Кыргызстан, <a href="mailto:xxx@somemail.com">xxxap@somemail.com</a>
     </div>
 
   </body>
